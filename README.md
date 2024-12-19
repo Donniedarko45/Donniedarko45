@@ -27,20 +27,44 @@ const kartikey = {
 <div align="center" style="display: flex; justify-content: space-evenly;">
 
 ### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=000000)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=000000)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=000000)
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="381 479 4562 5044"><g fill-rule="evenodd" clip-rule="evenodd"><path fill="#004482" d="M2529.36 515.354c81.48-45.72 181.8-45.72 263.16 0 402.6 225.96 1614.12 906.12 2016.84 1132.08 81.48 45.6 131.64 130.08 131.64 221.52v2264.04c0 91.44-50.16 175.92-131.64 221.64-402.6 225.96-1614.12 906.12-2016.84 1132.08-81.48 45.72-181.8 45.72-263.16 0-402.6-225.96-1614.12-906.12-2016.84-1132.08-81.36-45.72-131.52-130.08-131.52-221.52v-2264.04c0-91.44 50.16-175.92 131.64-221.64 402.48-225.96 1614.24-906.12 2016.72-1132.08"/><path fill="#659ad2" d="M417.48 4249.514c-31.92-42.72-36.48-83.28-36.48-137.88v-2251.08c0-90.96 50.04-174.96 131.28-220.32 401.16-224.64 1608.6-900.84 2009.76-1125.6 81.24-45.48 191.28-44.52 272.52.96 401.16 224.64 1604.52 895.08 2005.68 1119.72 32.4 18.24 57.12 40.2 79.2 69.12z"/><path fill="#fff" d="M2661 1321.034c927.24 0 1680 752.76 1680 1680s-752.76 1680-1680 1680-1680-752.76-1680-1680 752.76-1680 1680-1680m0 840c463.56 0 840 376.32 840 840 0 463.56-376.44 840-840 840s-840-376.44-840-840c0-463.68 376.32-840 840-840"/><path fill="#00599c" d="M4879.2 1705.634c61.92 57.96 60.72 145.32 60.72 214.08 0 455.4-3.84 1750.68 1.08 2206.08.48 47.52-15.24 97.56-38.76 135.24l-2290.08-1260z"/></g></svg>
+<p>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
 
 ### Database & Tools
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=000000)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&color=000000)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=000000)
+<p>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg" alt="prisma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+</p>
 
 </div>
-
 <hr style="border: 1px solid #6C63FF;">
 
 ## 🏆 Featured Projects
