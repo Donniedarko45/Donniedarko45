@@ -75,7 +75,8 @@ const kartikey = {
 
 <div align="center">
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Donniedarko45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="30%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Donniedarko45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Donniedarko45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 <hr style="border: 1px solid #6C63FF;">
