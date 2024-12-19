@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Learning+DevOps+GenAI;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;Learning+DevOps+and+GenAI;Problem+Solver)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="margin: 20px 0;"/>
 
