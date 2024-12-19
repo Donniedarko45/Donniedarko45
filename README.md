@@ -130,7 +130,7 @@ const kartikey = {
   <a href="https://www.linkedin.com/in/kartikeypandey45/" target="_blank">
     <img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="x.com/hellomewhat" target="_blank">
+  <a href="https://www.x.com/hellomewhat" target="_blank">
     <img src="https://github.com/xandemon/developer-icons/blob/main/icons/x-dark.svg" alt="x" width="40" height="40"/>
   </a>
 </p>
