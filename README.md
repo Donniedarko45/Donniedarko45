@@ -16,7 +16,7 @@ const kartikey = {
     learning: ["DevOps", "Computer Networks", "Advanced Backend"],
     askMeAbout: ["Backend Development", "System Design", "Problem Solving"],
     reachMe: "kartikey224252@gmail.com",
-    funFact: "I might crack my neck while thinking too hard! 🤔"
+    funFact: "I am too dumb!"
 };
 ```
 
