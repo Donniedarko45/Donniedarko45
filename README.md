@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;DevOps+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="margin: 20px 0;"/>
 
 </div>
 
@@ -16,13 +16,15 @@ const kartikey = {
     learning: ["DevOps", "Computer Networks", "Advanced Backend"],
     askMeAbout: ["Backend Development", "System Design", "Problem Solving"],
     reachMe: "kartikey224252@gmail.com",
-    funFact: "I am dumb"
+    funFact: "I might crack my neck while thinking too hard! 🤔"
 };
 ```
 
+<hr style="border: 1px solid #6C63FF;">
+
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-evenly;">
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=000000)
@@ -38,6 +40,8 @@ const kartikey = {
 
 </div>
 
+<hr style="border: 1px solid #6C63FF;">
+
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -45,17 +49,17 @@ const kartikey = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Uniisphere</h3>
+      <h3 align="center" style="color: #6C63FF;">Uniisphere</h3>
       <div align="center">  
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=uniisphere&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=uniisphere&theme=tokyonight" alt="Uniisphere"/>
         <br/>
         <span><strong>A LinkedIn-inspired platform with scalable backend and group collaboration features</strong></span>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">DevOps Lab</h3>
+      <h3 align="center" style="color: #6C63FF;">DevOps Lab</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=devops-lab&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=devops-lab&theme=tokyonight" alt="DevOps Lab"/>
         <br/>
         <span><strong>Hands-on experiments with containerization, CI/CD, and infrastructure</strong></span>
       </div>
@@ -65,16 +69,20 @@ const kartikey = {
 
 </div>
 
+<hr style="border: 1px solid #6C63FF;">
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Donniedarko45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Donniedarko45&theme=tokyonight&hide_border=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Donniedarko45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Donniedarko45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+<hr style="border: 1px solid #6C63FF;">
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="center" style="padding: 10px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://www.linkedin.com/in/kartikeypandey45/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=000000)](https://x.com/hellomewhat)
@@ -84,7 +92,7 @@ const kartikey = {
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Donniedarko45&style=flat-square&color=6C63FF" alt="Profile views"/>
   
 > *"Code is poetry written in logic, and debugging is the art of finding its rhythm."*
