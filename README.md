@@ -123,11 +123,11 @@ const kartikey = {
 
 ## 🤝 Let's Connect
 
-<div align="center" style="padding: 10px;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://www.linkedin.com/in/kartikeypandey45/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=000000)](https://x.com/hellomewhat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](mailto:kartikey224252@gmail.com)
+<p>
+  <a href="mailto:kartikey224252@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/415213/email-files-letter.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
 </div>
 
