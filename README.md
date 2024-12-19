@@ -127,6 +127,9 @@ const kartikey = {
   <a href="mailto:kartikey224252@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/415213/email-files-letter.svg" alt="typescript" width="40" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/kartikeypandey45/" target="_blank">
+    <img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
 
 </div>
