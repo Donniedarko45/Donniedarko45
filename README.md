@@ -65,13 +65,14 @@ const kartikey = {
 ## 🤝 Let's Connect
 <div align="center" style="margin: 20px 0">
 <a href="mailto:kartikey224252@gmail.com" style="text-decoration: none; margin: 5px;">
-  <img src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Email">
+  <img src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Email" width="50" height="50">
 </a>
 <a href="https://www.linkedin.com/in/kartikeypandey45/" style="text-decoration: none; margin: 5px;">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn">
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://www.x.com/hellomewhat" style="text-decoration: none; margin: 5px;">
-  <img src="https://www.svgrepo.com/show/12848/x-symbol.svg" alt="X">
+ <img src="https://www.svgrepo.com/show/12848/x-symbol.svg" alt="X" width="50" height="50">
+
 </a>
 </div>
 
