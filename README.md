@@ -1,13 +1,12 @@
-# 👨‍💻 Kartikey Pandey
-
+<!-- Updated README.md for Kartikey Pandey -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Fullstack+Developer;DevOps+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Fullstack+Developer;DevOps+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-<!-- Animated wave hand -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+<!-- Top Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-<!-- Animated contribution snake -->
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Donniedarko45/Donniedarko45/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Donniedarko45/Donniedarko45/output/github-contribution-grid-snake.svg">
@@ -29,7 +28,7 @@ const kartikey = {
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="650">
 </div>
 
 ## 🛠️ Tech Arsenal
@@ -38,12 +37,17 @@ const kartikey = {
 
 ### 🔥 Languages & Frameworks
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,c,cpp,python,nextjs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,c,cpp,python,nextjs&perline=6" width="300" />
 </div>
 
 ### ⚡ Database & Tools
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,kubernetes&perline=3" />
+  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,kubernetes&perline=6" width="300" />
+</div>
+
+### 🖥 DevOps Utilities
+<div style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,githubactions,vscode,cloudflare&perline=6" width="300" />
 </div>
 
 </div>
@@ -63,7 +67,7 @@ const kartikey = {
       </h3>
       <div align="center">  
         <a href="https://github.com/Donniedarko45/uniisphere">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=uniisphere&theme=tokyonight&hide_border=true" alt="Uniisphere"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=uniisphere&theme=radical&hide_border=true" alt="Uniisphere"/>
         </a>
         <br/>
         <span><strong>A LinkedIn-inspired platform with scalable backend and group collaboration features</strong></span>
@@ -75,7 +79,7 @@ const kartikey = {
       </h3>
       <div align="center">
         <a href="https://github.com/Donniedarko45/devops-lab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=devops-lab&theme=tokyonight&hide_border=true" alt="DevOps Lab"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donniedarko45&repo=devops-lab&theme=radical&hide_border=true" alt="DevOps Lab"/>
         </a>
         <br/>
         <span><strong>Hands-on experiments with containerization, CI/CD, and infrastructure</strong></span>
@@ -88,11 +92,11 @@ const kartikey = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DonnieDarko45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=DonnieDarko45&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DonnieDarko45&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=DonnieDarko45&theme=radical&hide_border=true" alt="Streak Stats"/>
 
   <!-- Activity Graph -->
-  <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DonnieDarko45&theme=tokyo-night&hide_border=true" />
+  <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DonnieDarko45&theme=radical&hide_border=true" />
 </div>
 
 ## 🤝 Let's Connect
