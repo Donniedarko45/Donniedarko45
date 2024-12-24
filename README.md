@@ -77,6 +77,6 @@ const kartikey = {
 
 <div align="center">
   <a href="https://github.com/DonnieDarko45">
-    <img width="250px" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=6C63FF&labelColor=1a1b27&query=value&url=https://api.countapi.xyz/get/donniedarko45/profile" alt="Profile Views"/>
+    <img width="250px" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=6C63FF&labelColor=1a1b27&query=value&url=https://api.countapi.xyz/get/DonnieDarko45/profile" alt="Profile Views"/>
   </a>
 </div>
