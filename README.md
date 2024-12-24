@@ -71,13 +71,9 @@ const kartikey = {
   <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://www.x.com/hellomewhat" style="text-decoration: none; margin: 5px;">
- <img src="https://www.svgrepo.com/show/12848/x-symbol.svg" alt="X" width="50" height="50">
+ <img src="https://www.svgrepo.com/show/12848/x-symbol.svg" alt="X" width="47" height="47">
 
 </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/DonnieDarko45">
-    <img width="250px" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=6C63FF&labelColor=1a1b27&query=value&url=https://api.countapi.xyz/get/DonnieDarko45/profile" alt="Profile Views"/>
-  </a>
-</div>
+
