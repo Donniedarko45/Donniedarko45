@@ -119,7 +119,6 @@ const kartikey = {
     <img width="250px" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=6C63FF&labelColor=1a1b27&query=value&url=https://api.countapi.xyz/get/donniedarko45/profile" alt="Profile Views"/>
   </a>
 </div>
-
 <!-- Adding a custom animated border card -->
 <div align="center">
   <a href="https://github.com/DonnieDarko45">
@@ -130,7 +129,6 @@ const kartikey = {
     </picture>
   </a>
 </div>
-
 <!-- Animated Cards with Multiple Stats -->
 <div align="center">
   <table border="0" align="center">
@@ -146,14 +144,12 @@ const kartikey = {
     </tr>
   </table>
 </div>
-
 <!-- Animated Statistics Card -->
 <div align="center">
   <a href="https://github.com/DonnieDarko45">
     <img width="450px" src="https://svg-banners.vercel.app/api?type=luminance&text1=Profile%20Views%20${count}&width=850&height=100&color1=6C63FF&color2=8B80FF" alt="Profile Views Banner">
   </a>
 </div>
-
 <style>
 @keyframes borderAnimation {
   0% {
