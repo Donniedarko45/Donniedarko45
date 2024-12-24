@@ -115,18 +115,84 @@ const kartikey = {
 </style>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Donniedarko45&style=flat-square&color=6C63FF&label=Profile%20Views" alt="Profile Views"/>
-  <!-- Additional GitHub Stats -->
-  <a href="https://github.com/Donniedarko45?tab=followers">
-    <img src="https://img.shields.io/github/followers/Donniedarko45?style=flat-square&color=6C63FF&logo=github&label=Followers" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Donniedarko45?tab=stars">
-    <img src="https://img.shields.io/github/stars/Donniedarko45?style=flat-square&color=6C63FF&logo=github&label=Stars" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/Donniedarko45">
-    <img src="https://img.shields.io/github/last-commit/Donniedarko45/Donniedarko45?style=flat-square&color=6C63FF&logo=github&label=Last%20Update" alt="Last Update"/>
+  <a href="https://github.com/DonnieDarko45">
+    <img width="250px" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=6C63FF&labelColor=1a1b27&query=value&url=https://api.countapi.xyz/get/donniedarko45/profile" alt="Profile Views"/>
   </a>
 </div>
+
+<!-- Adding a custom animated border card -->
+<div align="center">
+  <a href="https://github.com/DonnieDarko45">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://svgur.com/i/11uE.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://svgur.com/i/11uF.svg">
+      <img alt="Profile Views" src="https://svgur.com/i/11uE.svg" width="250px">
+    </picture>
+  </a>
+</div>
+
+<!-- Animated Cards with Multiple Stats -->
+<div align="center">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/Profile%20Views-${count}-6C63FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=1a1b27" alt="Profile Views"/>
+        <br/>
+        <img width="100%" src="https://gist.githubusercontent.com/DonnieDarko45/your-gist-id/raw/profile-views-counter.svg">
+      </td>
+      <td width="50%" align="center">
+        <img height="120px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=200&lines=Profile+Views%3A+${count}"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Statistics Card -->
+<div align="center">
+  <a href="https://github.com/DonnieDarko45">
+    <img width="450px" src="https://svg-banners.vercel.app/api?type=luminance&text1=Profile%20Views%20${count}&width=850&height=100&color1=6C63FF&color2=8B80FF" alt="Profile Views Banner">
+  </a>
+</div>
+
+<style>
+@keyframes borderAnimation {
+  0% {
+    border-color: #6C63FF;
+    transform: scale(1);
+  }
+  50% {
+    border-color: #8B80FF;
+    transform: scale(1.02);
+  }
+  100% {
+    border-color: #6C63FF;
+    transform: scale(1);
+  }
+}
+
+.stats-card {
+  background: linear-gradient(145deg, #1a1b27, #24283b);
+  border: 2px solid #6C63FF;
+  border-radius: 10px;
+  padding: 15px 25px;
+  margin: 10px;
+  display: inline-block;
+  animation: borderAnimation 3s ease-in-out infinite;
+  transition: all 0.3s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(108, 99, 255, 0.2);
+}
+
+.profile-views {
+  font-size: 24px;
+  font-weight: bold;
+  color: #6C63FF;
+  text-shadow: 0 0 10px rgba(108, 99, 255, 0.5);
+}
+</style>
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
