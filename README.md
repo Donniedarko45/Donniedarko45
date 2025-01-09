@@ -22,7 +22,7 @@
 const kartikey = {
     currentlyBuilding: "Uniisphere - A LinkedIn-inspired platform 🚀",
     learning: ["DevOps 🛠", "Computer Networks 🌐", "Advanced Backend ⚡"],
-    askMeAbout: ["Backend Development 💻", "System Design 🎨", "Problem Solving 🧩"],
+    askMeAbout: ["Backend Development 💻", "Devops 🎨", "GenAI🧩"],
     reachMe: "kartikey224252@gmail.com 📬",
     funFact: "I debug with console.log and I'm proud of it! 😅"
 };
