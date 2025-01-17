@@ -24,7 +24,6 @@ const kartikey = {
     learning: ["DevOps 🛠", "Computer Networks 🌐", "Advanced Backend ⚡"],
     askMeAbout: ["Backend Development 💻", "Devops 🎨", "GenAI🧩"],
     reachMe: "kartikey224252@gmail.com 📬",
-    funFact: "I debug with console.log and I'm proud of it! 😅"
 };
 ```
 
