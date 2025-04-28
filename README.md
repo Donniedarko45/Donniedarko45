@@ -1,4 +1,4 @@
-# 👨‍💻 Harsh Joshi
+# 👨‍💻 Kartikey Pandey
 
 <div align="center">
 
