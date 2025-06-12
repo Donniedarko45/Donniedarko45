@@ -21,7 +21,7 @@
 ```typescript
 const kartikey = {
     currentlyBuilding: "Uniisphere - A LinkedIn-inspired platform 🚀",
-    learning: ["DevOps 🛠", "Computer Networks 🌐", "Advanced Backend ⚡"],
+    learning: ["DevOps 🛠", "Computer Networks 🌐", "Backend ⚡"],
     askMeAbout: ["Backend Development 💻", "Devops 🎨", "GenAI🧩"],
     reachMe: "kartikey224252@gmail.com 📬",
 };
