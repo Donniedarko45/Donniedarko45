@@ -7,12 +7,6 @@
 <!-- Animated wave hand -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-<!-- Animated contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 </div>
 
