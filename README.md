@@ -14,9 +14,9 @@
 
 ```typescript
 const kartikey = {
-    currentlyBuilding: "Uniisphere - A LinkedIn-inspired platform 🚀",
-    learning: ["DevOps 🛠", "Computer Networks 🌐", "Backend ⚡"],
-    askMeAbout: ["Backend Development 💻", "Devops 🎨", "GenAI🧩"],
+    currentlyBuilding: "An Hiring Platform",
+    learning: ["DevOps ", "Computer Networks ", "Backend "],
+    askMeAbout: ["Backend Development ", "Devops ", "Web3"],
     reachMe: "kartikey224252@gmail.com 📬",
 };
 ```
@@ -29,7 +29,7 @@ const kartikey = {
 
 <div align="center">
 
-### 🔥 Languages & Frameworks
+###  Languages & Frameworks
 <div style="display: inline-block;">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,c,cpp,python,nextjs&perline=4" />
 </div>
@@ -45,7 +45,7 @@ const kartikey = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DonnieDarko45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats"/>
