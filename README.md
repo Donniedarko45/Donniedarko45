@@ -36,7 +36,7 @@ const kartikey = {
 
 ### Database & Tools
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,newrelic,kafka,kubernetes,jenkins&perline=4" />
+  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,terraform,kafka,kubernetes,jenkins&perline=4" />
 </div>
 
 </div>
