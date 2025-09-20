@@ -15,7 +15,7 @@
 ```typescript
 const kartikey = {
     currentlyBuilding: "An Hiring Platform",
-    learning: ["DevOps ", "Computer Networks ", "Backend "],
+    learning: ["DevOps", "Computer Networks", "Backend"],
     askMeAbout: ["Backend Development ", "Devops ", "Web3"],
     reachMe: "kartikey224252@gmail.com 📬",
 };
