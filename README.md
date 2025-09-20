@@ -10,7 +10,7 @@
 
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```typescript
 const kartikey = {
@@ -25,18 +25,18 @@ const kartikey = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 ###  Languages & Frameworks
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,c,cpp,python,nextjs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,c,cpp,python,nextjs&perline=4" />
 </div>
 
 ### ⚡ Database & Tools
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,kubernetes&perline=3" />
+  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,kubernetes,jenkins&perline=3" />
 </div>
 
 </div>
