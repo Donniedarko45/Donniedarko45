@@ -34,9 +34,9 @@ const kartikey = {
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,c,cpp,python,nextjs&perline=4" />
 </div>
 
-### ⚡ Database & Tools
+### Database & Tools
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,kubernetes,jenkins&perline=4" />
+  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,newrelic,kafka,kubernetes,jenkins&perline=4" />
 </div>
 
 </div>
