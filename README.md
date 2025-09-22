@@ -57,6 +57,12 @@ const kartikey = {
   <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DonnieDarko45&theme=tokyo-night&hide_border=true" />
 </div>
 
+###
+
+<h3 align="center">• • •</h3>
+
+###
+
 ## 🤝 Let's Connect
 <div align="center" style="margin: 20px 0">
 <a href="mailto:kartikey224252@gmail.com" style="text-decoration: none; margin: 5px;">
