@@ -1,4 +1,4 @@
-# 👨‍💻 Kartikey Pandey
+#  Kartikey Pandey
 
 <div align="center">
 
@@ -16,8 +16,8 @@
 const kartikey = {
     currentlyBuilding: "An Hiring Platform",
     learning: ["DevOps", "Computer Networks", "Backend"],
-    askMeAbout: ["Backend Development ", "Devops ", "Web3"],
-    reachMe: "kartikey224252@gmail.com 📬",
+    askMeAbout: ["Backend Development ", "Devops "],
+    reachMe: "kartikey224252@gmail.com",
 };
 ```
 
@@ -62,7 +62,7 @@ const kartikey = {
 
 ###
 
-## 🤝 Let's Connect
+## Let's Connect
 <div align="center" style="margin: 20px 0">
 <a href="mailto:kartikey224252@gmail.com" style="text-decoration: none; margin: 5px;">
   <img src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Email" width="50" height="50">
