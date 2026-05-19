@@ -14,10 +14,12 @@
 
 ```typescript
 const kartikey = {
-    currentlyBuilding: "An Hiring Platform",
+    currentlyBuilding: "betterstack..",
     learning: ["DevOps", "Computer Networks", "Backend"],
     askMeAbout: ["Backend Development ", "Devops "],
     reachMe: "kartikey224252@gmail.com",
+    additional information: "I am dumb",
+
 };
 ```
 
