@@ -19,33 +19,22 @@ const kartikey = {
 };
 ```
 
-###
-
-<h3 align="center">• • •</h3>
-
-###
-
-##  Tech Stack
-
+ 
+## `>_` TECH STACK
+ 
 <div align="center">
+    
+**// LANGUAGES & FRAMEWORKS**
+ 
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,c,cpp,python,nextjs&perline=9&theme=dark" />
 
-###  Languages & Frameworks
-<div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,react,c,cpp,python,nextjs&perline=4" />
+
+**// DATABASE & INFRA**
+
+ 
+<img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,terraform,kafka,kubernetes,jenkins&perline=6&theme=dark" />
 </div>
 
-### Database & Tools
-<div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=redis,postgresql,prisma,git,docker,aws,prometheus,grafana,terraform,kafka,kubernetes,jenkins&perline=4" />
-</div>
-
-</div>
-
-###
-
-<h3 align="center">• • •</h3>
-
-###
 ##  GitHub Analytics
 
 <div align="center">
