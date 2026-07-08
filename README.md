@@ -2,9 +2,7 @@
 
 # Kartikey Pandey
 
-### Backend Engineer • DevOps Enthusiast • Problem Solver
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+Backend+Engineer;%3E+Building+Scalable+Systems;%3E+Learning+Cloud+%26+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&random=false&width=600&height=60&lines=%3E+whoami;%3E+backend+%2F+devops+engineer;%3E+building+some+dumb+things...)](https://git.io/typing-svg)
 
 </div>
 
