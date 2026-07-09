@@ -40,7 +40,8 @@ const kartikey = {
 <div align="center">
 
   <!-- Activity Graph -->
-  <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Donniedarko45&theme=tokyo-night&hide_border=true" />
+
+  <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=donniedarko45&theme=merko&hide_border=true" />
 </div>
 
 
