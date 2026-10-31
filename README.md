@@ -11,7 +11,7 @@
 
 ```typescript
 const kartikey = {
-    currentlyBuilding: "betterstack..",
+    currentlyBuilding: "cloudFire",
     learning: ["DevOps", "Computer Networks", "Backend"],
     askMeAbout: ["Backend Development ", "Devops "],
     reachMe: "kartikey224252@gmail.com",
